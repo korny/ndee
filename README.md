@@ -17,3 +17,7 @@ You can now `cd` into any of your Apache configured domains using `ndee`:
 > pwd
 /var/www/mypage.com/blog/some/folder/new/current/public/
 ```
+
+## Name
+
+"Ndee" is how the [Western Apache](https://en.wikipedia.org/wiki/Western_Apache) bands call themselves. Sounds related to `cd`, doesn't it?
