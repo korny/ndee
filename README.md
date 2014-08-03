@@ -21,3 +21,7 @@ You can now `cd` into any of your Apache configured domains using `ndee`:
 ## Name
 
 *Ndee* is how the [Western Apache](https://en.wikipedia.org/wiki/Western_Apache) bands call themselves. Sounds related to `cd`, doesn't it?
+
+## Acknowledgements
+
+Using [glebm's fork of apache_config](https://github.com/glebm/apache_config) to handle Config file parsing.
