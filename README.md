@@ -1,5 +1,3 @@
-# Ndee
-
 `gem install ndee` and you can cd into any of your Apache configured domains:
 
 ```sh
