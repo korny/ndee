@@ -20,4 +20,4 @@ You can now `cd` into any of your Apache configured domains using `ndee`:
 
 ## Name
 
-"Ndee" is how the [Western Apache](https://en.wikipedia.org/wiki/Western_Apache) bands call themselves. Sounds related to `cd`, doesn't it?
+*Ndee* is how the [Western Apache](https://en.wikipedia.org/wiki/Western_Apache) bands call themselves. Sounds related to `cd`, doesn't it?
