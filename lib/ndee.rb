@@ -32,7 +32,7 @@ module Ndee
     if name = ARGV.first
       if document_root = document_roots_by_domain[name]
         if Dir.exist? document_root
-          exec 'cd', document_root
+          puts "cd #{document_root}"
         else
           puts "#{document_root} doesn't exist"
         end
