@@ -1,4 +1,4 @@
-# See https://github.com/openminds/apache_config.
+# See https://github.com/glebm/apache_config.
 module Apache
   autoload :Node,           'apache_config/node'
   autoload :VirtualHost,    'apache_config/virtual_host'
