@@ -1,7 +1,7 @@
 ## Installation
 
 1. `gem install ndee`
-2. Add `function ndee { \`ruby -S ndee $1\`; }` to your .bashrc
+2. Add ```function ndee { `ruby -S ndee $1`; }``` to your .bashrc
 
 ## Usage
 
