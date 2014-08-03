@@ -1,4 +1,11 @@
-`gem install ndee` and you can cd into any of your Apache configured domains:
+## Installation
+
+1. `gem install ndee`
+2. Add `function ndee { \`ruby -S ndee $1\`; }` to your .bashrc
+
+## Usage
+
+You can now cd into any of your Apache configured domains:
 
 ```sh
 > ndee mypage.com
